@@ -87,7 +87,7 @@ Predictions:
 ```
 
 ## Output:
-# mean:
+### mean:
 ![366126406-1e6c626f-8096-49d4-93b8-97ca749326d3](https://github.com/user-attachments/assets/4e4676f6-9adc-4d73-9c12-44cb6a655779)
 
 
